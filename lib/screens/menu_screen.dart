@@ -17,7 +17,7 @@ class MenuScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("하기싫지않지않지않지않다"),
+        title: const Text("하기싫지않지않지않지않지않지않다"),
       ),
       body: Center(
         child: Column(
